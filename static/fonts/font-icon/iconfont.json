@@ -1,0 +1,954 @@
+{
+  "id": "1481767",
+  "name": "simpleBCC",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372640",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8776676",
+      "name": "view_off",
+      "font_class": "icon-test1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "7964510",
+      "name": "退出",
+      "font_class": "-signOut",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "12651310",
+      "name": "user",
+      "font_class": "-user",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "12641526",
+      "name": "组 1997",
+      "font_class": "-CalculationModel",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "12641527",
+      "name": "组 1995",
+      "font_class": "-ClusterModel",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "8106272",
+      "name": "next",
+      "font_class": "next",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "12185686",
+      "name": "组 1982",
+      "font_class": "-selfCustomize",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "12184186",
+      "name": "组 1606",
+      "font_class": "-logisticOne",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "12164548",
+      "name": "组 1955",
+      "font_class": "-neuralNetwork",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "12164549",
+      "name": "组 1961",
+      "font_class": "-decision",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "12164552",
+      "name": "组 1965",
+      "font_class": "-lineBack",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "12164555",
+      "name": "组 1746",
+      "font_class": "-pieDiagram",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "12164556",
+      "name": "组 1725",
+      "font_class": "-SVD",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "12164559",
+      "name": "组 1844",
+      "font_class": "-zScore",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "12164560",
+      "name": "组 1761",
+      "font_class": "-gbdt",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "12164563",
+      "name": "组 1959",
+      "font_class": "-bernoulliBayes",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "12164565",
+      "name": "组 1966",
+      "font_class": "-ridgeRegression",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "12164566",
+      "name": "组 1950",
+      "font_class": "-xgboost",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "12164568",
+      "name": "组 1854",
+      "font_class": "zu169",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "12164569",
+      "name": "组 1962",
+      "font_class": "-logisticRegress",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "12164571",
+      "name": "组 1909",
+      "font_class": "-bangla",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "12164573",
+      "name": "组 1969",
+      "font_class": "-randomForestRegression",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "12164432",
+      "name": "ACC2",
+      "font_class": "-acc",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "12164435",
+      "name": "mae2",
+      "font_class": "-mae",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "12164437",
+      "name": "Apriori2",
+      "font_class": "-apriori",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12164438",
+      "name": "F1-2",
+      "font_class": "-Fl",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "12164439",
+      "name": "Ks2",
+      "font_class": "-ks",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "12164441",
+      "name": "K-Means2",
+      "font_class": "-Kmeans",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "12164442",
+      "name": "ARIMA2",
+      "font_class": "-ARIMA",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "12164450",
+      "name": "ROC、AUC-2",
+      "font_class": "-roc",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "12164454",
+      "name": "组 1593",
+      "font_class": "-oversample",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "12164456",
+      "name": "组 1597",
+      "font_class": "-variance",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "12164459",
+      "name": "组 1661",
+      "font_class": "-importModel",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "12164460",
+      "name": "Rmse2",
+      "font_class": "-rmse",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "12164462",
+      "name": "组 1608",
+      "font_class": "-randomForestOne",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "12164464",
+      "name": "组 1699",
+      "font_class": "-undersample",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "12164465",
+      "name": "组 1706",
+      "font_class": "-LOne",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "12164469",
+      "name": "Xgboost回归2",
+      "font_class": "-xgboostRegression",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "12164476",
+      "name": "组 1717",
+      "font_class": "-PCA",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "12164478",
+      "name": "组 1616",
+      "font_class": "-gbdtRegression",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "12164480",
+      "name": "混洗矩阵2",
+      "font_class": "-shuffleMatrix",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "12164484",
+      "name": "组 1656",
+      "font_class": "-decisionTreeRegression",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "12164485",
+      "name": "组 1850",
+      "font_class": "-knnRegression",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "12164486",
+      "name": "组 1754",
+      "font_class": "-barDiagram",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "12164488",
+      "name": "组 1565",
+      "font_class": "-dataSplit",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "12164490",
+      "name": "组 1729",
+      "font_class": "-heatCode",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "12164495",
+      "name": "组 1905",
+      "font_class": "-coefficient",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "12164496",
+      "name": "组 1721",
+      "font_class": "-LDA",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "12164501",
+      "name": "组 1782",
+      "font_class": "-svmRegression",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "12164502",
+      "name": "组 1811",
+      "font_class": "-scatterDiagram",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "12164503",
+      "name": "组 1606",
+      "font_class": "zu108",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "12164505",
+      "name": "梯度提升树回归2",
+      "font_class": "-gradientLiftTreeRegression",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "12164510",
+      "name": "组 1842",
+      "font_class": "-minMax",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "12164512",
+      "name": "组 1839",
+      "font_class": "-binarization",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "12164513",
+      "name": "组 1972",
+      "font_class": "-randomForest",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "12164515",
+      "name": "组 1945",
+      "font_class": "-SVM",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "12164519",
+      "name": "组 1712",
+      "font_class": "-RFE",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "12164521",
+      "name": "组 1803",
+      "font_class": "-dataMerge",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "12164525",
+      "name": "组 1807",
+      "font_class": "-dataCascade",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "12164526",
+      "name": "mse2",
+      "font_class": "-mse",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "12164529",
+      "name": "组 1913",
+      "font_class": "-mutual",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "12164530",
+      "name": "组 1589",
+      "font_class": "-Isometric",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "12164532",
+      "name": "组 1948",
+      "font_class": "-bayes",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "12164535",
+      "name": "组 1776",
+      "font_class": "-knn",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "12164536",
+      "name": "组 1815",
+      "font_class": "-lineDiagram",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "12164538",
+      "name": "组 1956",
+      "font_class": "-oneVsRest",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "12164539",
+      "name": "组 1750",
+      "font_class": "-histogram",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "12164540",
+      "name": "组 1953",
+      "font_class": "-gradientLiftTree",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "12164541",
+      "name": "组 1613",
+      "font_class": "-GBDTOne",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "12164545",
+      "name": "组 1871",
+      "font_class": "-equalFrequency",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "12164112",
+      "name": "组 1563",
+      "font_class": "-dataSampling",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "12164113",
+      "name": "组 1571",
+      "font_class": "-sort",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "12164115",
+      "name": "组 1566",
+      "font_class": "-arrayRemoveRepeat",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "12164118",
+      "name": "组 1573",
+      "font_class": "-comrename",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "12164119",
+      "name": "组 1578",
+      "font_class": "-derivedColumn",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "12164123",
+      "name": "组 1664",
+      "font_class": "-timeDifference",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12164124",
+      "name": "组 1580",
+      "font_class": "-timeFilter",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12164125",
+      "name": "组 1570",
+      "font_class": "-valueReplace",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12164128",
+      "name": "组 1677",
+      "font_class": "-csvExport",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "12164132",
+      "name": "组 1668",
+      "font_class": "-valueTransform",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "12164133",
+      "name": "组 1675",
+      "font_class": "-attributeConstruction",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12164138",
+      "name": "组 1585",
+      "font_class": "-timeTypeTransform",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12164139",
+      "name": "组 1819",
+      "font_class": "-deleteColumn",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "12164141",
+      "name": "组 1679",
+      "font_class": "-excelExport",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "12164154",
+      "name": "组 1682",
+      "font_class": "-textExport",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "12164156",
+      "name": "组 1817",
+      "font_class": "-addColumn",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "12164157",
+      "name": "组 1880",
+      "font_class": "-excel",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "12164159",
+      "name": "组 1878",
+      "font_class": "-csv",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "12164160",
+      "name": "组 1882",
+      "font_class": "-text",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "12164163",
+      "name": "组 1691",
+      "font_class": "-databaseExport",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "12164165",
+      "name": "组 1824",
+      "font_class": "-transColumn",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "12164167",
+      "name": "组 1827",
+      "font_class": "-missValue",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "12164173",
+      "name": "组 1875",
+      "font_class": "-dataBase",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "11830417",
+      "name": "-zj",
+      "font_class": "-zj",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11730898",
+      "name": "saveModel",
+      "font_class": "-saveModel",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11678769",
+      "name": "保存",
+      "font_class": "-save",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "6141084",
+      "name": "AK-YK圆圈_fill",
+      "font_class": "-circle",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11597457",
+      "name": "新建",
+      "font_class": "-create2",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11582815",
+      "name": "arrow-up",
+      "font_class": "-arrow-up",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "11582770",
+      "name": "arrow-down",
+      "font_class": "-arrow-down",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11553119",
+      "name": "永久删除",
+      "font_class": "-delete2",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11553106",
+      "name": "详情箭头",
+      "font_class": "-arrow",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11553073",
+      "name": "新建工作流文件",
+      "font_class": "-create-file",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11553020",
+      "name": "文件图标",
+      "font_class": "-xiangmuwenjian",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "11552156",
+      "name": "编辑",
+      "font_class": "-edit2",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11552026",
+      "name": "编辑",
+      "font_class": "-edit",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11551170",
+      "name": "特征工程",
+      "font_class": "-tezhenggongcheng",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11550340",
+      "name": "组件编程",
+      "font_class": "-zujianbiancheng",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "11550333",
+      "name": "项目",
+      "font_class": "-xiangmu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11529886",
+      "name": "清空",
+      "font_class": "-empty",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11529856",
+      "name": "全选",
+      "font_class": "-checked-all",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11529817",
+      "name": "恢复",
+      "font_class": "-restore",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11529138",
+      "name": "moxing",
+      "font_class": "-moxing",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11528935",
+      "name": "复制网址",
+      "font_class": "-copy-url",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "11528872",
+      "name": "删除项目",
+      "font_class": "-delete-project",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "11528716",
+      "name": "下载",
+      "font_class": "-download",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "11528668",
+      "name": "删除",
+      "font_class": "-delete",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11528643",
+      "name": "移动",
+      "font_class": "-move",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11528620",
+      "name": "复制",
+      "font_class": "-copy",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "11528605",
+      "name": "重命名",
+      "font_class": "-rename",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11528530",
+      "name": "新建文件夹",
+      "font_class": "-create-folder",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11528500",
+      "name": "upload",
+      "font_class": "-upload",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11528464",
+      "name": "shuju",
+      "font_class": "-shuju",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11528030",
+      "name": "新建",
+      "font_class": "-create",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11527736",
+      "name": "create-project",
+      "font_class": "-create-project",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11527566",
+      "name": "shujuchuli",
+      "font_class": "-shujuchuli",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11527521",
+      "name": "jiqixuexi",
+      "font_class": "-jiqixuexi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11527484",
+      "name": "moxingpinggu",
+      "font_class": "-moxingpinggu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11527419",
+      "name": "zijianzujian",
+      "font_class": "-zijianzujian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11515533",
+      "name": "-huishouzhan",
+      "font_class": "-huishouzhan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11515397",
+      "name": "guanli",
+      "font_class": "-guanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1350123",
+      "name": "新增用户",
+      "font_class": "-create-user",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7274108",
+      "name": "文件夹",
+      "font_class": "-file",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
