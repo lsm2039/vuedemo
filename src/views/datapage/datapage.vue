@@ -39,7 +39,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .el-tabs__item {
   padding: 0 20px !important;
   font-size: 18px;

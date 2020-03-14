@@ -37,7 +37,6 @@ export default {
 #el-header {
   height: 60px;
   background-color: #3f3a8a;
-  height: 20vw;
   overflow: hidden;
   color: #fff;
   display: -webkit-box;
@@ -51,7 +50,7 @@ export default {
 
 #el-aside {
   width: 150px !important;
-  min-height: 919px;
+  min-height: 885px;
 }
 
 .views-main-el-main {
@@ -67,7 +66,7 @@ export default {
   background-color: #fff;
   -webkit-box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
-  min-height: 817px;
+  min-height: 800px;
   box-sizing: border-box;
 }
 
