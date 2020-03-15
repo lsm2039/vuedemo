@@ -1,4 +1,4 @@
-# pathdata
+# vuexdemo
 
 > A Vue.js project
 

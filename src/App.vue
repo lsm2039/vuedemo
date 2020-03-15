@@ -1,29 +1,38 @@
 <template>
   <div id="app">
+    <h1>{{count}}</h1>
+    <h2>{{myCount}}</h2>
     <router-view />
   </div>
 </template>
 
 <script>
+import { mapState, mapGetters } from 'vuex'
 export default {
-  name: 'App'
+  name: 'App',
+  data () {
+    return {
+
+    }
+  },
+  computed: {
+    ...mapState({
+      count: state => {
+        return state.app.count
+      }
+    }),
+    ...mapGetters(['myCount'])
+  }
 }
 </script>
 
 <style>
-html,
-body {
-  width: 100%;
-  height: 100%;
-  padding: 0;
-  margin: 0;
-}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
   color: #2c3e50;
-  height: 100%;
-  width: 100%;
+  margin-top: 60px;
 }
 </style>
